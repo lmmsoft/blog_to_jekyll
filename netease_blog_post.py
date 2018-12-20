@@ -140,7 +140,7 @@ def remove_duplicated_blogs(blog_list):
 
 
 def main():
-    blog_list = parse_xml("blog.xml")
+    blog_list = parse_xml("input/netease_blog_post.xml")
     blog_dict = remove_duplicated_blogs(blog_list)
     generate_files(blog_dict, "output")
 
