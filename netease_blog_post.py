@@ -1,6 +1,4 @@
-# from xml.dom.minidom import parse
 import xml.dom.minidom
-import os
 import datetime
 
 
@@ -15,7 +13,7 @@ def parse_xml(inputFile):
         userId = blogItem.getElementsByTagName("userId")[0].childNodes[0].data.strip()
         userName = blogItem.getElementsByTagName("userName")[0].childNodes[0].data.strip()
         userNickname = blogItem.getElementsByTagName("userNickname")[0].childNodes[0].data.strip()
-        title = blogItem.getElementsByTagName("title")[0].childNodes[0].data.strip().strip()
+        title = blogItem.getElementsByTagName("title")[0].childNodes[0].data.strip()
         publishTime = blogItem.getElementsByTagName("publishTime")[0].childNodes[0].data.strip()
         ispublished = blogItem.getElementsByTagName("ispublished")[0].childNodes[0].data.strip()
         classId = blogItem.getElementsByTagName("classId")[0].childNodes[0].data.strip()
@@ -31,7 +29,6 @@ def parse_xml(inputFile):
         date_string, file_name_date = parse_timestamp(publishTime)
         if moveForm is None or moveForm is '' or moveForm == 'NONE':
             moveForm = "blog.163.com"
-
 
         blog = {
             'title': title,
