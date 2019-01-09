@@ -1,0 +1,2654 @@
+[
+  {
+    "filename": "trail/151205hangzhou/00.JPG",
+    "output_file_name": "qiniu-trail-151205hangzhou-00.jpg",
+    "output_file_path": "output/qiniu-trail-151205hangzhou-00.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "trail/151205hangzhou/01.JPG",
+    "output_file_name": "qiniu-trail-151205hangzhou-01.jpg",
+    "output_file_path": "output/qiniu-trail-151205hangzhou-01.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "trail/151205hangzhou/02.JPG",
+    "output_file_name": "qiniu-trail-151205hangzhou-02.jpg",
+    "output_file_path": "output/qiniu-trail-151205hangzhou-02.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "trail/151205hangzhou/04.JPG",
+    "output_file_name": "qiniu-trail-151205hangzhou-04.jpg",
+    "output_file_path": "output/qiniu-trail-151205hangzhou-04.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "trail/151205hangzhou/05.JPG",
+    "output_file_name": "qiniu-trail-151205hangzhou-05.jpg",
+    "output_file_path": "output/qiniu-trail-151205hangzhou-05.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "trail/151205hangzhou/06.JPG",
+    "output_file_name": "qiniu-trail-151205hangzhou-06.jpg",
+    "output_file_path": "output/qiniu-trail-151205hangzhou-06.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "trail/151205hangzhou/07.JPG",
+    "output_file_name": "qiniu-trail-151205hangzhou-07.jpg",
+    "output_file_path": "output/qiniu-trail-151205hangzhou-07.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "trail/151205hangzhou/08.JPG",
+    "output_file_name": "qiniu-trail-151205hangzhou-08.jpg",
+    "output_file_path": "output/qiniu-trail-151205hangzhou-08.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "trail/151205hangzhou/09.JPG",
+    "output_file_name": "qiniu-trail-151205hangzhou-09.jpg",
+    "output_file_path": "output/qiniu-trail-151205hangzhou-09.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "2576 x 1932",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "trail/151205hangzhou/10.JPG",
+    "output_file_name": "qiniu-trail-151205hangzhou-10.jpg",
+    "output_file_path": "output/qiniu-trail-151205hangzhou-10.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "9894 x 3934",
+    "size_new": "1508 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "trail/151205hangzhou/11.JPG",
+    "output_file_name": "qiniu-trail-151205hangzhou-11.jpg",
+    "output_file_path": "output/qiniu-trail-151205hangzhou-11.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "16382 x 3838",
+    "size_new": "2561 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "trail/151205hangzhou/12.JPG",
+    "output_file_name": "qiniu-trail-151205hangzhou-12.jpg",
+    "output_file_path": "output/qiniu-trail-151205hangzhou-12.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "trail/151205hangzhou/13.JPG",
+    "output_file_name": "qiniu-trail-151205hangzhou-13.jpg",
+    "output_file_path": "output/qiniu-trail-151205hangzhou-13.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "trail/151205hangzhou/14.JPG",
+    "output_file_name": "qiniu-trail-151205hangzhou-14.jpg",
+    "output_file_path": "output/qiniu-trail-151205hangzhou-14.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "trail/151205hangzhou/15.JPG",
+    "output_file_name": "qiniu-trail-151205hangzhou-15.jpg",
+    "output_file_path": "output/qiniu-trail-151205hangzhou-15.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "trail/151205hangzhou/16.JPG",
+    "output_file_name": "qiniu-trail-151205hangzhou-16.jpg",
+    "output_file_path": "output/qiniu-trail-151205hangzhou-16.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "trail/151205hangzhou/17.JPG",
+    "output_file_name": "qiniu-trail-151205hangzhou-17.jpg",
+    "output_file_path": "output/qiniu-trail-151205hangzhou-17.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "trail/151205hangzhou/18.JPG",
+    "output_file_name": "qiniu-trail-151205hangzhou-18.jpg",
+    "output_file_path": "output/qiniu-trail-151205hangzhou-18.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "trail/151205hangzhou/19.JPG",
+    "output_file_name": "qiniu-trail-151205hangzhou-19.jpg",
+    "output_file_path": "output/qiniu-trail-151205hangzhou-19.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "trail/151205hangzhou/20.JPG",
+    "output_file_name": "qiniu-trail-151205hangzhou-20.jpg",
+    "output_file_path": "output/qiniu-trail-151205hangzhou-20.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "9658 x 3872",
+    "size_new": "1496 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "trail/151205hangzhou/21.JPG",
+    "output_file_name": "qiniu-trail-151205hangzhou-21.jpg",
+    "output_file_path": "output/qiniu-trail-151205hangzhou-21.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "trail/151205hangzhou/22.JPG",
+    "output_file_name": "qiniu-trail-151205hangzhou-22.jpg",
+    "output_file_path": "output/qiniu-trail-151205hangzhou-22.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "trail/151205hangzhou/23.JPG",
+    "output_file_name": "qiniu-trail-151205hangzhou-23.jpg",
+    "output_file_path": "output/qiniu-trail-151205hangzhou-23.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "trail/151205hangzhou/24.JPG",
+    "output_file_name": "qiniu-trail-151205hangzhou-24.jpg",
+    "output_file_path": "output/qiniu-trail-151205hangzhou-24.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "trail/151205hangzhou/25.JPG",
+    "output_file_name": "qiniu-trail-151205hangzhou-25.jpg",
+    "output_file_path": "output/qiniu-trail-151205hangzhou-25.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/01.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-01.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-01.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "600 x 450",
+    "size_new": "600 x 450",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/02.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-02.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-02.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "600 x 337",
+    "size_new": "600 x 337",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/03.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-03.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-03.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "600 x 337",
+    "size_new": "600 x 337",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/04.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-04.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-04.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "600 x 450",
+    "size_new": "600 x 450",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/05.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-05.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-05.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "600 x 450",
+    "size_new": "600 x 450",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/06.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-06.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-06.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "450 x 600",
+    "size_new": "450 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/07.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-07.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-07.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "600 x 450",
+    "size_new": "600 x 450",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/08.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-08.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-08.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "600 x 450",
+    "size_new": "600 x 450",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/09.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-09.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-09.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "600 x 450",
+    "size_new": "600 x 450",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/10.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-10.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-10.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "600 x 450",
+    "size_new": "600 x 450",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/11.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-11.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-11.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "600 x 450",
+    "size_new": "600 x 450",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/12.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-12.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-12.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "600 x 450",
+    "size_new": "600 x 450",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/13.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-13.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-13.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "600 x 450",
+    "size_new": "600 x 450",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/14.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-14.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-14.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "450 x 600",
+    "size_new": "450 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/15.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-15.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-15.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "600 x 450",
+    "size_new": "600 x 450",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/16.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-16.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-16.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "600 x 450",
+    "size_new": "600 x 450",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/17.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-17.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-17.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "600 x 450",
+    "size_new": "600 x 450",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/18.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-18.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-18.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "600 x 337",
+    "size_new": "600 x 337",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/19.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-19.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-19.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "600 x 450",
+    "size_new": "600 x 450",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/20.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-20.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-20.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "600 x 450",
+    "size_new": "600 x 450",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/21.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-21.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-21.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "600 x 450",
+    "size_new": "600 x 450",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/22.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-22.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-22.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "600 x 450",
+    "size_new": "600 x 450",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/23.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-23.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-23.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "450 x 600",
+    "size_new": "450 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/24.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-24.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-24.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "600 x 450",
+    "size_new": "600 x 450",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/25.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-25.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-25.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "337 x 600",
+    "size_new": "337 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/26.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-26.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-26.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "600 x 337",
+    "size_new": "600 x 337",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/27.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-27.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-27.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "600 x 337",
+    "size_new": "600 x 337",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/28.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-28.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-28.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "600 x 337",
+    "size_new": "600 x 337",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/29.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-29.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-29.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "600 x 337",
+    "size_new": "600 x 337",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/30.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-30.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-30.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "600 x 450",
+    "size_new": "600 x 450",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/31.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-31.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-31.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3000 x 4000",
+    "size_new": "450 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/32.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-32.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-32.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4000 x 3000",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/33.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-33.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-33.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4000 x 3000",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/34.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-34.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-34.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4000 x 3000",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/35.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-35.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-35.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "1600 x 1200",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/36.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-36.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-36.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "1600 x 1200",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/37.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-37.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-37.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "1600 x 1200",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/38.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-38.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-38.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "1600 x 1200",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/39.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-39.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-39.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "600 x 450",
+    "size_new": "600 x 450",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/091005nanping/40.jpg",
+    "output_file_name": "qiniu-travel-091005nanping-40.jpg",
+    "output_file_path": "output/qiniu-travel-091005nanping-40.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "600 x 450",
+    "size_new": "600 x 450",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Brunei01.JPG",
+    "output_file_name": "qiniu-travel-180719slices-brunei01.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-brunei01.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4000 x 3000",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Brunei02.JPG",
+    "output_file_name": "qiniu-travel-180719slices-brunei02.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-brunei02.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4000 x 3000",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Brunei03.JPG",
+    "output_file_name": "qiniu-travel-180719slices-brunei03.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-brunei03.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4000 x 3000",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Brunei04.JPG",
+    "output_file_name": "qiniu-travel-180719slices-brunei04.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-brunei04.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4000 x 3000",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Brunei05.JPG",
+    "output_file_name": "qiniu-travel-180719slices-brunei05.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-brunei05.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4000 x 3000",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Brunei06.JPG",
+    "output_file_name": "qiniu-travel-180719slices-brunei06.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-brunei06.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4000 x 3000",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Brunei07.JPG",
+    "output_file_name": "qiniu-travel-180719slices-brunei07.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-brunei07.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4000 x 3000",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Brunei08.JPG",
+    "output_file_name": "qiniu-travel-180719slices-brunei08.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-brunei08.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4000 x 3000",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Brunei09.JPG",
+    "output_file_name": "qiniu-travel-180719slices-brunei09.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-brunei09.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4000 x 3000",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Brunei10.JPG",
+    "output_file_name": "qiniu-travel-180719slices-brunei10.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-brunei10.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Brunei11.JPG",
+    "output_file_name": "qiniu-travel-180719slices-brunei11.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-brunei11.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Brunei12.JPG",
+    "output_file_name": "qiniu-travel-180719slices-brunei12.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-brunei12.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Brunei13.JPG",
+    "output_file_name": "qiniu-travel-180719slices-brunei13.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-brunei13.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Brunei14.JPG",
+    "output_file_name": "qiniu-travel-180719slices-brunei14.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-brunei14.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Brunei15.PNG",
+    "output_file_name": "qiniu-travel-180719slices-brunei15.png",
+    "output_file_path": "output/qiniu-travel-180719slices-brunei15.png",
+    "result": [
+      "RequestId:  bwCowLR9dFciXAEA\n"
+    ],
+    "result2": true,
+    "size_old": "750 x 1334",
+    "size_new": "337 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Cambodia00.JPG",
+    "output_file_name": "qiniu-travel-180719slices-cambodia00.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-cambodia00.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Cambodia02.JPG",
+    "output_file_name": "qiniu-travel-180719slices-cambodia02.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-cambodia02.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Cambodia03.JPG",
+    "output_file_name": "qiniu-travel-180719slices-cambodia03.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-cambodia03.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Cambodia04.JPG",
+    "output_file_name": "qiniu-travel-180719slices-cambodia04.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-cambodia04.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Cambodia05.JPG",
+    "output_file_name": "qiniu-travel-180719slices-cambodia05.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-cambodia05.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Cambodia06.JPG",
+    "output_file_name": "qiniu-travel-180719slices-cambodia06.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-cambodia06.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Cambodia07.JPG",
+    "output_file_name": "qiniu-travel-180719slices-cambodia07.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-cambodia07.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Cambodia08.JPG",
+    "output_file_name": "qiniu-travel-180719slices-cambodia08.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-cambodia08.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Cambodia09.JPG",
+    "output_file_name": "qiniu-travel-180719slices-cambodia09.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-cambodia09.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Cambodia10.JPG",
+    "output_file_name": "qiniu-travel-180719slices-cambodia10.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-cambodia10.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Cambodia11.JPG",
+    "output_file_name": "qiniu-travel-180719slices-cambodia11.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-cambodia11.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Cambodia12.JPG",
+    "output_file_name": "qiniu-travel-180719slices-cambodia12.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-cambodia12.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Cambodia13.JPG",
+    "output_file_name": "qiniu-travel-180719slices-cambodia13.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-cambodia13.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Cambodia14.JPG",
+    "output_file_name": "qiniu-travel-180719slices-cambodia14.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-cambodia14.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Cambodia15.JPG",
+    "output_file_name": "qiniu-travel-180719slices-cambodia15.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-cambodia15.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Malaysia01.JPG",
+    "output_file_name": "qiniu-travel-180719slices-malaysia01.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-malaysia01.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Malaysia02.JPG",
+    "output_file_name": "qiniu-travel-180719slices-malaysia02.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-malaysia02.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Malaysia03.JPG",
+    "output_file_name": "qiniu-travel-180719slices-malaysia03.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-malaysia03.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Malaysia04.JPG",
+    "output_file_name": "qiniu-travel-180719slices-malaysia04.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-malaysia04.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Malaysia05.JPG",
+    "output_file_name": "qiniu-travel-180719slices-malaysia05.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-malaysia05.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Malaysia06.JPG",
+    "output_file_name": "qiniu-travel-180719slices-malaysia06.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-malaysia06.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Malaysia07.JPG",
+    "output_file_name": "qiniu-travel-180719slices-malaysia07.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-malaysia07.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Malaysia10.JPG",
+    "output_file_name": "qiniu-travel-180719slices-malaysia10.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-malaysia10.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Malaysia11.JPG",
+    "output_file_name": "qiniu-travel-180719slices-malaysia11.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-malaysia11.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Malaysia12.JPG",
+    "output_file_name": "qiniu-travel-180719slices-malaysia12.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-malaysia12.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "1440 x 1080",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Malaysia13.JPG",
+    "output_file_name": "qiniu-travel-180719slices-malaysia13.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-malaysia13.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "2319 x 961",
+    "size_new": "1447 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Malaysia14.JPG",
+    "output_file_name": "qiniu-travel-180719slices-malaysia14.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-malaysia14.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4000 x 3000",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Malaysia15.JPG",
+    "output_file_name": "qiniu-travel-180719slices-malaysia15.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-malaysia15.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4000 x 3000",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Malaysia16.JPG",
+    "output_file_name": "qiniu-travel-180719slices-malaysia16.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-malaysia16.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4000 x 3000",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Malaysia17.JPG",
+    "output_file_name": "qiniu-travel-180719slices-malaysia17.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-malaysia17.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "1440 x 1080",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Myanmar01.JPG",
+    "output_file_name": "qiniu-travel-180719slices-myanmar01.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-myanmar01.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4912 x 3264",
+    "size_new": "902 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Myanmar02.JPG",
+    "output_file_name": "qiniu-travel-180719slices-myanmar02.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-myanmar02.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4912 x 3264",
+    "size_new": "902 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Myanmar03.JPG",
+    "output_file_name": "qiniu-travel-180719slices-myanmar03.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-myanmar03.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4912 x 3264",
+    "size_new": "902 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Myanmar04.JPG",
+    "output_file_name": "qiniu-travel-180719slices-myanmar04.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-myanmar04.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4912 x 3264",
+    "size_new": "902 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Myanmar05.JPG",
+    "output_file_name": "qiniu-travel-180719slices-myanmar05.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-myanmar05.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4912 x 3264",
+    "size_new": "902 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Myanmar06.JPG",
+    "output_file_name": "qiniu-travel-180719slices-myanmar06.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-myanmar06.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4912 x 3264",
+    "size_new": "902 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Myanmar07.JPG",
+    "output_file_name": "qiniu-travel-180719slices-myanmar07.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-myanmar07.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4912 x 3264",
+    "size_new": "902 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Myanmar08.JPG",
+    "output_file_name": "qiniu-travel-180719slices-myanmar08.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-myanmar08.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4912 x 3264",
+    "size_new": "902 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Myanmar09.JPG",
+    "output_file_name": "qiniu-travel-180719slices-myanmar09.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-myanmar09.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4912 x 3264",
+    "size_new": "902 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Myanmar10.JPG",
+    "output_file_name": "qiniu-travel-180719slices-myanmar10.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-myanmar10.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4912 x 3264",
+    "size_new": "902 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Myanmar11.JPG",
+    "output_file_name": "qiniu-travel-180719slices-myanmar11.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-myanmar11.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4912 x 3264",
+    "size_new": "902 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Myanmar12.JPG",
+    "output_file_name": "qiniu-travel-180719slices-myanmar12.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-myanmar12.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4912 x 3264",
+    "size_new": "902 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Myanmar13.JPG",
+    "output_file_name": "qiniu-travel-180719slices-myanmar13.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-myanmar13.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4912 x 3264",
+    "size_new": "902 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Myanmar14.JPG",
+    "output_file_name": "qiniu-travel-180719slices-myanmar14.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-myanmar14.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4912 x 3264",
+    "size_new": "902 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Myanmar21.JPG",
+    "output_file_name": "qiniu-travel-180719slices-myanmar21.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-myanmar21.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4912 x 3264",
+    "size_new": "902 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Myanmar22.JPG",
+    "output_file_name": "qiniu-travel-180719slices-myanmar22.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-myanmar22.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4912 x 3264",
+    "size_new": "902 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Myanmar23.JPG",
+    "output_file_name": "qiniu-travel-180719slices-myanmar23.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-myanmar23.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4912 x 3264",
+    "size_new": "902 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Myanmar24.JPG",
+    "output_file_name": "qiniu-travel-180719slices-myanmar24.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-myanmar24.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4912 x 3264",
+    "size_new": "902 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Myanmar25.JPG",
+    "output_file_name": "qiniu-travel-180719slices-myanmar25.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-myanmar25.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4912 x 3264",
+    "size_new": "902 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Myanmar26.JPG",
+    "output_file_name": "qiniu-travel-180719slices-myanmar26.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-myanmar26.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4912 x 3264",
+    "size_new": "902 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Myanmar27.JPG",
+    "output_file_name": "qiniu-travel-180719slices-myanmar27.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-myanmar27.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4912 x 3264",
+    "size_new": "902 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Myanmar28.JPG",
+    "output_file_name": "qiniu-travel-180719slices-myanmar28.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-myanmar28.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Myanmar29.JPG",
+    "output_file_name": "qiniu-travel-180719slices-myanmar29.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-myanmar29.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Philippines01.JPG",
+    "output_file_name": "qiniu-travel-180719slices-philippines01.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-philippines01.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3024 x 3024",
+    "size_new": "600 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Philippines02.JPG",
+    "output_file_name": "qiniu-travel-180719slices-philippines02.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-philippines02.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Philippines03.JPG",
+    "output_file_name": "qiniu-travel-180719slices-philippines03.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-philippines03.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4000 x 3000",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Philippines04.JPG",
+    "output_file_name": "qiniu-travel-180719slices-philippines04.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-philippines04.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4000 x 3000",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Philippines05.JPG",
+    "output_file_name": "qiniu-travel-180719slices-philippines05.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-philippines05.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Singarpore01.JPG",
+    "output_file_name": "qiniu-travel-180719slices-singarpore01.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-singarpore01.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Singarpore02.JPG",
+    "output_file_name": "qiniu-travel-180719slices-singarpore02.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-singarpore02.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Singarpore03.JPG",
+    "output_file_name": "qiniu-travel-180719slices-singarpore03.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-singarpore03.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Singarpore04.JPG",
+    "output_file_name": "qiniu-travel-180719slices-singarpore04.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-singarpore04.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Singarpore05.JPG",
+    "output_file_name": "qiniu-travel-180719slices-singarpore05.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-singarpore05.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Singarpore06.JPG",
+    "output_file_name": "qiniu-travel-180719slices-singarpore06.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-singarpore06.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Singarpore07.JPG",
+    "output_file_name": "qiniu-travel-180719slices-singarpore07.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-singarpore07.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Singarpore08.JPG",
+    "output_file_name": "qiniu-travel-180719slices-singarpore08.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-singarpore08.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Singarpore09.JPG",
+    "output_file_name": "qiniu-travel-180719slices-singarpore09.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-singarpore09.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Singarpore10.JPG",
+    "output_file_name": "qiniu-travel-180719slices-singarpore10.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-singarpore10.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Singarpore11.JPG",
+    "output_file_name": "qiniu-travel-180719slices-singarpore11.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-singarpore11.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Singarpore12.JPG",
+    "output_file_name": "qiniu-travel-180719slices-singarpore12.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-singarpore12.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Singarpore21.JPG",
+    "output_file_name": "qiniu-travel-180719slices-singarpore21.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-singarpore21.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Singarpore22.JPG",
+    "output_file_name": "qiniu-travel-180719slices-singarpore22.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-singarpore22.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Singarpore23.JPG",
+    "output_file_name": "qiniu-travel-180719slices-singarpore23.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-singarpore23.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Singarpore24.JPG",
+    "output_file_name": "qiniu-travel-180719slices-singarpore24.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-singarpore24.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Singarpore25.JPG",
+    "output_file_name": "qiniu-travel-180719slices-singarpore25.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-singarpore25.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Singarpore26.JPG",
+    "output_file_name": "qiniu-travel-180719slices-singarpore26.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-singarpore26.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Singarpore27.JPG",
+    "output_file_name": "qiniu-travel-180719slices-singarpore27.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-singarpore27.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Singarpore28.JPG",
+    "output_file_name": "qiniu-travel-180719slices-singarpore28.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-singarpore28.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Singarpore29.JPG",
+    "output_file_name": "qiniu-travel-180719slices-singarpore29.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-singarpore29.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Singarpore30.JPG",
+    "output_file_name": "qiniu-travel-180719slices-singarpore30.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-singarpore30.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Singarpore31.JPG",
+    "output_file_name": "qiniu-travel-180719slices-singarpore31.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-singarpore31.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Singarpore32.JPG",
+    "output_file_name": "qiniu-travel-180719slices-singarpore32.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-singarpore32.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Thailand15-01.JPG",
+    "output_file_name": "qiniu-travel-180719slices-thailand15-01.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-thailand15-01.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Thailand15-02.JPG",
+    "output_file_name": "qiniu-travel-180719slices-thailand15-02.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-thailand15-02.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Thailand15-03.JPG",
+    "output_file_name": "qiniu-travel-180719slices-thailand15-03.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-thailand15-03.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Thailand15-04.JPG",
+    "output_file_name": "qiniu-travel-180719slices-thailand15-04.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-thailand15-04.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "2448 x 2448",
+    "size_new": "600 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Thailand15-05.JPG",
+    "output_file_name": "qiniu-travel-180719slices-thailand15-05.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-thailand15-05.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Thailand15-06.JPG",
+    "output_file_name": "qiniu-travel-180719slices-thailand15-06.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-thailand15-06.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3264 x 2448",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Thailand15-07.JPG",
+    "output_file_name": "qiniu-travel-180719slices-thailand15-07.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-thailand15-07.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3264 x 2448",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Thailand17-01.JPG",
+    "output_file_name": "qiniu-travel-180719slices-thailand17-01.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-thailand17-01.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5760 x 3840",
+    "size_new": "900 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Thailand17-02.JPG",
+    "output_file_name": "qiniu-travel-180719slices-thailand17-02.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-thailand17-02.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Thailand17-03.JPG",
+    "output_file_name": "qiniu-travel-180719slices-thailand17-03.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-thailand17-03.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Thailand17-04.JPG",
+    "output_file_name": "qiniu-travel-180719slices-thailand17-04.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-thailand17-04.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Thailand17-05.JPG",
+    "output_file_name": "qiniu-travel-180719slices-thailand17-05.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-thailand17-05.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Vietnam01.JPG",
+    "output_file_name": "qiniu-travel-180719slices-vietnam01.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-vietnam01.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Vietnam02.JPG",
+    "output_file_name": "qiniu-travel-180719slices-vietnam02.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-vietnam02.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Vietnam03.JPG",
+    "output_file_name": "qiniu-travel-180719slices-vietnam03.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-vietnam03.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Vietnam04.JPG",
+    "output_file_name": "qiniu-travel-180719slices-vietnam04.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-vietnam04.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Vietnam05.JPG",
+    "output_file_name": "qiniu-travel-180719slices-vietnam05.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-vietnam05.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Vietnam06.JPG",
+    "output_file_name": "qiniu-travel-180719slices-vietnam06.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-vietnam06.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4032 x 3024",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/180719slices/Vietnam07.JPG",
+    "output_file_name": "qiniu-travel-180719slices-vietnam07.jpg",
+    "output_file_path": "output/qiniu-travel-180719slices-vietnam07.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3265 x 2451",
+    "size_new": "799 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/0-map1.PNG",
+    "output_file_name": "qiniu-travel-150419chenghulake-0-map1.png",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-0-map1.png",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "640 x 777",
+    "size_new": "494 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/0-map2.PNG",
+    "output_file_name": "qiniu-travel-150419chenghulake-0-map2.png",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-0-map2.png",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "638 x 722",
+    "size_new": "530 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/1-1SIP.JPG",
+    "output_file_name": "qiniu-travel-150419chenghulake-1-1sip.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-1-1sip.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3264 x 2448",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/1-2road.JPG",
+    "output_file_name": "qiniu-travel-150419chenghulake-1-2road.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-1-2road.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3264 x 2448",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/1-3road.JPG",
+    "output_file_name": "qiniu-travel-150419chenghulake-1-3road.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-1-3road.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3264 x 2448",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/2-1village.JPG",
+    "output_file_name": "qiniu-travel-150419chenghulake-2-1village.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-2-1village.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "6527 x 2353",
+    "size_new": "1664 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/2-2village.JPG",
+    "output_file_name": "qiniu-travel-150419chenghulake-2-2village.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-2-2village.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "5744 x 2423",
+    "size_new": "1422 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/2-3duck.JPG",
+    "output_file_name": "qiniu-travel-150419chenghulake-2-3duck.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-2-3duck.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3264 x 2448",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/2-4flower.JPG",
+    "output_file_name": "qiniu-travel-150419chenghulake-2-4flower.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-2-4flower.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3264 x 2448",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/2-5road.JPG",
+    "output_file_name": "qiniu-travel-150419chenghulake-2-5road.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-2-5road.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3264 x 2448",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/2-6village.JPG",
+    "output_file_name": "qiniu-travel-150419chenghulake-2-6village.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-2-6village.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3264 x 2448",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/2-7boat.JPG",
+    "output_file_name": "qiniu-travel-150419chenghulake-2-7boat.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-2-7boat.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3264 x 2448",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/2-8boat.JPG",
+    "output_file_name": "qiniu-travel-150419chenghulake-2-8boat.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-2-8boat.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "4074 x 2534",
+    "size_new": "964 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/2-91road.JPG",
+    "output_file_name": "qiniu-travel-150419chenghulake-2-91road.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-2-91road.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3264 x 2448",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/2-9boat.JPG",
+    "output_file_name": "qiniu-travel-150419chenghulake-2-9boat.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-2-9boat.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3264 x 2448",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/3-01countryRoad.JPG",
+    "output_file_name": "qiniu-travel-150419chenghulake-3-01countryroad.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-3-01countryroad.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "8282 x 2416",
+    "size_new": "2056 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/3-02rise.JPG",
+    "output_file_name": "qiniu-travel-150419chenghulake-3-02rise.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-3-02rise.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3124 x 2265",
+    "size_new": "827 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/3-03rise.JPG",
+    "output_file_name": "qiniu-travel-150419chenghulake-3-03rise.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-3-03rise.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3264 x 2448",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/3-04farmYard.JPG",
+    "output_file_name": "qiniu-travel-150419chenghulake-3-04farmyard.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-3-04farmyard.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3264 x 2448",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/3-05purpleFlower.JPG",
+    "output_file_name": "qiniu-travel-150419chenghulake-3-05purpleflower.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-3-05purpleflower.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3264 x 2448",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/3-06purpleFlower.JPG",
+    "output_file_name": "qiniu-travel-150419chenghulake-3-06purpleflower.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-3-06purpleflower.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "7246 x 2512",
+    "size_new": "1730 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/3-07chengLake.JPG",
+    "output_file_name": "qiniu-travel-150419chenghulake-3-07chenglake.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-3-07chenglake.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "6620 x 2536",
+    "size_new": "1566 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/3-08fishing.jpg",
+    "output_file_name": "qiniu-travel-150419chenghulake-3-08fishing.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-3-08fishing.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3984 x 2988",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/3-09lmm.JPG",
+    "output_file_name": "qiniu-travel-150419chenghulake-3-09lmm.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-3-09lmm.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3264 x 2448",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/3-09lmm2.jpg",
+    "output_file_name": "qiniu-travel-150419chenghulake-3-09lmm2.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-3-09lmm2.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "2242 x 3096",
+    "size_new": "434 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/3-10lmm.JPG",
+    "output_file_name": "qiniu-travel-150419chenghulake-3-10lmm.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-3-10lmm.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3264 x 2448",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/3-11bike.jpg",
+    "output_file_name": "qiniu-travel-150419chenghulake-3-11bike.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-3-11bike.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3984 x 2988",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/3-12bike.JPG",
+    "output_file_name": "qiniu-travel-150419chenghulake-3-12bike.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-3-12bike.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3264 x 2448",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/3-13Highway.JPG",
+    "output_file_name": "qiniu-travel-150419chenghulake-3-13highway.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-3-13highway.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3264 x 2448",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/3-14.JPG",
+    "output_file_name": "qiniu-travel-150419chenghulake-3-14.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-3-14.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3264 x 2448",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/3-15.JPG",
+    "output_file_name": "qiniu-travel-150419chenghulake-3-15.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-3-15.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3264 x 2448",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/3-16.JPG",
+    "output_file_name": "qiniu-travel-150419chenghulake-3-16.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-3-16.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3264 x 2448",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/4-1wetland.jpg",
+    "output_file_name": "qiniu-travel-150419chenghulake-4-1wetland.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-4-1wetland.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3984 x 2988",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/4-2road.JPG",
+    "output_file_name": "qiniu-travel-150419chenghulake-4-2road.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-4-2road.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3264 x 2448",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/4-3village.jpg",
+    "output_file_name": "qiniu-travel-150419chenghulake-4-3village.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-4-3village.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3984 x 2988",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/5-1road.jpg",
+    "output_file_name": "qiniu-travel-150419chenghulake-5-1road.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-5-1road.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3984 x 2988",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/5-2chefang.JPG",
+    "output_file_name": "qiniu-travel-150419chenghulake-5-2chefang.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-5-2chefang.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3264 x 2448",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/5-3wusongRiver.JPG",
+    "output_file_name": "qiniu-travel-150419chenghulake-5-3wusongriver.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-5-3wusongriver.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3264 x 2448",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/5-4pintanSchool.JPG",
+    "output_file_name": "qiniu-travel-150419chenghulake-5-4pintanschool.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-5-4pintanschool.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3264 x 2448",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  },
+  {
+    "filename": "travel/150419ChenghuLake/5-5road.JPG",
+    "output_file_name": "qiniu-travel-150419chenghulake-5-5road.jpg",
+    "output_file_path": "output/qiniu-travel-150419chenghulake-5-5road.jpg",
+    "result": [
+      "\n"
+    ],
+    "result2": true,
+    "size_old": "3264 x 2448",
+    "size_new": "800 x 600",
+    "mode": "RGB"
+  }
+]
